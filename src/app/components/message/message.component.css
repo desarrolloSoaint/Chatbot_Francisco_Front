@@ -25,6 +25,8 @@
   background-repeat: no-repeat;
   width: 15%;
   height: 15%;
+  width: -moz-linear-gradient(25%);
+  height: -moz-linear-gradient(25%); 
   border-radius: 100%;
 }
 .imguser{
