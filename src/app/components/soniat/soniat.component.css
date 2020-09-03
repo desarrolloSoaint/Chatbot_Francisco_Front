@@ -83,8 +83,10 @@
 .fa-2x {
     font-size: 1rem;
 }
-.img_size{
+.img_size{    
     height: 30%;
+    height: -moz-linear-gradient(40%);
+    height: -o-linear-gradient(30%);
     margin-top: 75%;
     margin-left: 80%;
 }
